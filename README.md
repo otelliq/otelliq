@@ -13,6 +13,10 @@ I'm a passionate **graphic designer/software engineering** student with a strong
 ## software engineering experiences:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,git,linux,vim,html,css)](https://skillicons.dev) 
 
+As a software engineering student, I'm dedicated to writing clean, efficient code and developing innovative software solutions. I enjoy problem-solving and collaborating with a community of like-minded developers. My focus is on creating reliable and high-performance applications.
+
 ## graphic design experiences:
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma,pr,ae)](https://skillicons.dev) 
+
+I'm a creative graphic designer with a passion for visual storytelling. I specialize in creating eye-catching designs and user-friendly interfaces. Whether it's logos, web design, or branding, I love bringing ideas to life through art and design.
